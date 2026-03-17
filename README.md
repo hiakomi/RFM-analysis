@@ -12,6 +12,11 @@
 
 👉 [Скачать отчет](report.pdf)
 
+## Визуализация
+
+### Общий дашборд
+https://metabase.simulative.ru/public/dashboard/de815139-45e0-4549-bef0-424acc3840d3
+
 ---
 
 ## Задачи
@@ -48,10 +53,6 @@
 
 ---
 
-## Визуализация
-
-### Общий дашборд
-https://metabase.simulative.ru/public/dashboard/de815139-45e0-4549-bef0-424acc3840d3
 
 ---
 
